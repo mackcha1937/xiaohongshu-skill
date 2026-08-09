@@ -1,0 +1,4 @@
+interface:
+  display_name: "小红书Skill"
+  short_description: "通过多轮提问完成选题、研究、图文制作与站内预览交接"
+  default_prompt: "使用 $xiaohongshu-skill，先通过多轮提问帮我找到合适选题，再制作一篇小红书。"
